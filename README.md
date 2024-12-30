@@ -6,13 +6,6 @@ HealthMitra: A Responsive Healthcare and Nutrition Website Built with HTML, CSS,
 
 
 
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
-
-
-
 ## Appendix
 
 
